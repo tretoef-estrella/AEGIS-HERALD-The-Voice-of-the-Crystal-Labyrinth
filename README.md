@@ -7,6 +7,8 @@
 python3 AEGIS_HERALD.py
 ```
 
+📥 [Download AEGIS_HERALD.py](https://github.com/tretoef-estrella/AEGIS-HERALD-The-Voice-of-the-Crystal-Labyrinth/blob/main/AEGIS_HERALD.py)
+
 ---
 
 ## What Is This?
